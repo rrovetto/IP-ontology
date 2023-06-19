@@ -1,1 +1,1 @@
-# IP-ontology
+# The Intellectual Property Ontology
